@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73f8485f-668d-4e38-b4fa-6d241bcb9a8e" name="Changes" comment="first commit">
+    <list default="true" id="73f8485f-668d-4e38-b4fa-6d241bcb9a8e" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp2/No_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp2/No_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp2/No_3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp2/No_4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/No_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/No_2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/No_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp1/No_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/No_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp1/No_2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +35,14 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -42,28 +55,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/Desktop/ANGIE/SEM 6/MOBILE PROGRAMMING/cp-1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Asus/Desktop/ANGIE/SEM 6/MOBILE PROGRAMMING/cp-1/src/main/kotlin/com/wulans/kotlin/cp1"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Desktop\ANGIE\SEM 6\MOBILE PROGRAMMING\cp-1\src\main\kotlin\com\wulans\kotlin\cp1" />
       <recent name="C:\Users\Asus\Desktop\ANGIE\SEM 6\MOBILE PROGRAMMING\cp-1\src\main\kotlin\com\wulans\kotlin" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Desktop\ANGIE\SEM 6\MOBILE PROGRAMMING\cp-1\src\main\kotlin\com\wulans\kotlin\cp1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.No_2Kt">
-    <configuration name="No_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.No_1Kt" />
+  <component name="RunManager" selected="Kotlin.No_2Kt (1)">
+    <configuration name="No_1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp2.No_1Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No_2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp2.No_2Kt" />
       <module name="cp-1.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="No_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.No_2Kt" />
+      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp1.No_2Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp2.No_3Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp2.No_4Kt" />
       <module name="cp-1.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,8 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.No_2Kt (1)" />
+        <item itemvalue="Kotlin.No_3Kt" />
+        <item itemvalue="Kotlin.No_4Kt" />
+        <item itemvalue="Kotlin.No_1Kt (1)" />
         <item itemvalue="Kotlin.No_2Kt" />
-        <item itemvalue="Kotlin.No_1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -92,11 +133,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678332656434</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1678367252700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678367252700</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
