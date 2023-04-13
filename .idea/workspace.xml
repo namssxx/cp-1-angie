@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73f8485f-668d-4e38-b4fa-6d241bcb9a8e" name="Changes" comment="cp_2 (third commit)">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp3/No_1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp3/No_2.kt" afterDir="false" />
+    <list default="true" id="73f8485f-668d-4e38-b4fa-6d241bcb9a8e" name="Changes" comment="cp_3">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp4/No_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/wulans/kotlin/cp4/No_2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +51,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Asus/Desktop/ANGIE/SEM 6/MOBILE PROGRAMMING/cp-1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/Desktop/ANGIE/SEM 6/MOBILE PROGRAMMING/cp-1&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\Desktop\ANGIE\SEM 6\MOBILE PROGRAMMING\cp-1\src\main\kotlin\com\wulans\kotlin\cp1" />
@@ -67,7 +67,14 @@
       <recent name="C:\Users\Asus\Desktop\ANGIE\SEM 6\MOBILE PROGRAMMING\cp-1\src\main\kotlin\com\wulans\kotlin\cp1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.No_2Kt">
+  <component name="RunManager" selected="Kotlin.No_2Kt (2)">
+    <configuration name="No_1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp4.No_1Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="No_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp3.No_1Kt" />
       <module name="cp-1.main" />
@@ -82,6 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No_2Kt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp4.No_2Kt" />
+      <module name="cp-1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="No_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp3.No_2Kt" />
       <module name="cp-1.main" />
@@ -89,27 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp2.No_3Kt" />
-      <module name="cp-1.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wulans.kotlin.cp2.No_4Kt" />
-      <module name="cp-1.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.No_2Kt (2)" />
+        <item itemvalue="Kotlin.No_1Kt (1)" />
         <item itemvalue="Kotlin.No_2Kt" />
         <item itemvalue="Kotlin.No_1Kt" />
         <item itemvalue="Kotlin.No_2Kt (1)" />
-        <item itemvalue="Kotlin.No_3Kt" />
-        <item itemvalue="Kotlin.No_4Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -143,13 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678934260633</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cp_3">
+      <created>1680139882817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680139882817</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="cp_2 (third commit)" />
-    <option name="LAST_COMMIT_MESSAGE" value="cp_2 (third commit)" />
+    <MESSAGE value="cp_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="cp_3" />
   </component>
 </project>
